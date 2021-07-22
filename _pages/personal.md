@@ -8,8 +8,6 @@ redirect_from:
   - /personal.html
 ---
 
-{% include base_path %}
-
 Education
 ======
 
@@ -39,6 +37,8 @@ Education
 </div></details>
 
 
+
+
 Work experience
 ======
 <details open><summary>職歴</summary><div>
@@ -57,7 +57,10 @@ Work experience
   - 2018年4月～2020年3月　公立学校共済組合宮城支部　教員のメンタルヘルス相談事業　相談員（平成30年4月～令和2年3月）
 
 </div></details>
-  
+
+
+
+
 Certification
 ======
 * 臨床心理士
