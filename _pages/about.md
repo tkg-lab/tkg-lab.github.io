@@ -10,5 +10,5 @@ redirect_from:
 
 
 Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/files/IMG_6920.heic)
+![Editing a markdown file for a talk](/files/top_1.png)
 
