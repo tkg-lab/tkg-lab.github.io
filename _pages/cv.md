@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-<details open><summary>経歴</summary><div>
 
+<details open><summary>経歴</summary><div>
+  
 - 学士号（教育学）：解決志向短期療法ワークシート作成の試み
   - 2011年4月～2015年3月　東北大学 教育学部 
   - B.S. in Graduate School of Education, Tohoku University, 2015
@@ -23,6 +24,18 @@ Education
   - 2017年4月～2020年3月　東北大学 大学院教育学研究科 総合教育科学専攻 博士課程後期
   - Ph.D in Faculty of Education, Tohoku University, 2020
 </div></details>
+
+
+<details><summary>出身</summary><div>
+
+- 静岡県清水区 出生
+- 中学校
+  - 2004年4月～2008年3月　静岡大教育学部学附属島田中学校
+- 高等学校
+  - 2008年4月～2011年3月　静岡県立藤枝東高等学校
+
+</div></details>
+
 
 Work experience
 ======
