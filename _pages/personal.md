@@ -1,12 +1,13 @@
 ---
 permalink: /
 title: "Personal History"
-excerpt: "Personal History"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /personal/
   - /personal.html
 ---
+
 
 Education
 ======
