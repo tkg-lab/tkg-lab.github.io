@@ -7,14 +7,13 @@ redirect_from:
   - /resume
 ---
 
-
 Education
 ======
 
 <details open><summary>経歴</summary><div>
   
 - 学士号（教育学）：解決志向短期療法ワークシート作成の試み
-  - 2011年4月～2015年3月　東北大学 教育学部 
+  - 2011年4月～2015年3月　東北大学 教育学部
   - B.S. in Graduate School of Education, Tohoku University, 2015
 - 修士号（教育学）：目標の明確化および例外探しの効果の検討　効果的な解決志向短期療法に基づく心理的支援ツールの開発を目指して
   - 2015年4月～2017年3月　東北大学 大学院教育学研究科 総合教育科学専攻 博士課程前期
@@ -22,11 +21,11 @@ Education
 - 博士号（教育学）：解決志向短期療法の効果に関する研究　セルフケアツールの開発
   - 2017年4月～2020年3月　東北大学 大学院教育学研究科 総合教育科学専攻 博士課程後期
   - Ph.D in Faculty of Education, Tohoku University, 2020
-</div></details>
+</div></details>  
 
 
 <details><summary>出身</summary><div>
-
+  
 - 故郷
   - 静岡県中部
 - 中学校
@@ -42,7 +41,7 @@ Education
 Work experience
 ======
 <details open><summary>職歴</summary><div>
-
+  
 - 現在
   - 2020年4月～　東北福祉大学　総合福祉学部　福祉心理学科　助教（令和2年4月～）
   - 2021年4月～　東北大学　非常勤講師　担当授業科目：教育相談・生徒指導Ⅰ（進路指導を含む）（令和3年4月～　）
