@@ -1,11 +1,10 @@
 ---
-permalink: /
+layout: archive
 title: "Personal History"
-excerpt: ""
+permalink: /personal/
 author_profile: true
-redirect_from: 
-  - /personal/
-  - /personal.html
+redirect_from:
+  - /resume
 ---
 
 
