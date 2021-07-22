@@ -26,7 +26,7 @@ Education
 
   
   
-<details><summary>出身</summary><div>
+<details><summary>出身</summary>
 
 - 故郷
   - 静岡県中部
@@ -34,9 +34,7 @@ Education
   - 2004年4月～2008年3月　静岡大教育学部学附属島田中学校
 - 高等学校
   - 2008年4月～2011年3月　静岡県立藤枝東高等学校
-
-</div></details>
-
+</details>
 
 Work experience
 ======
