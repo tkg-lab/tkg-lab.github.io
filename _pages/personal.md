@@ -12,7 +12,7 @@ Education
 
 <details open><summary>経歴</summary><div>
   <br />
-- 学士号（教育学）：解決志向短期療法ワークシート作成の試み
+- 学士号（教育学）：解決志向短期療法ワークシート作成の試み<br />
   - 2011年4月～2015年3月　東北大学 教育学部
   - B.S. in Graduate School of Education, Tohoku University, 2015
 - 修士号（教育学）：目標の明確化および例外探しの効果の検討　効果的な解決志向短期療法に基づく心理的支援ツールの開発を目指して
