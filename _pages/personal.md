@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: ""
-excerpt: "About me"
+title: "Personal History"
+excerpt: "Personal History"
 author_profile: true
 redirect_from: 
-  - /contact/
-  - /contact.html
+  - /personal/
+  - /personal.html
 ---
 
 # Profile
