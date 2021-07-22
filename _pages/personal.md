@@ -10,7 +10,7 @@ redirect_from:
 Education
 ======
 
-<details open><summary>経歴</summary><div>
+<details open><summary>経歴</summary>
   
 * 学士号（教育学）：解決志向短期療法ワークシート作成の試み  
   * 2011年4月～2015年3月　東北大学 教育学部  
@@ -21,7 +21,7 @@ Education
 * 博士号（教育学）：解決志向短期療法の効果に関する研究　セルフケアツールの開発  
   * 2017年4月～2020年3月　東北大学 大学院教育学研究科 総合教育科学専攻 博士課程後期  
   * Ph.D in Faculty of Education, Tohoku University, 2020  
-</div></details>  
+</details>  
 
   
   
