@@ -14,10 +14,10 @@ redirect_from:
 1. <u>高木源</u>・長谷川啓三・若島孔文　SFBTワークシート作成の試み.　第6回ブリーフセラピー協会学術会議　日本赤十字看護大学　2015年11月.
 2. <u>高木源</u>　SFBTワークシート―短期的効果の検討―　日本家族心理学会第32回大会山形大学　2015年7月.
 3. <u>高木源</u>・若島孔文・川原碧・関口渓人・長谷川啓三　日本語版解決構築尺度の開発―信頼性と妥当性の検討―.　第7回ブリーフセラピー協会学術会議　同志社中学校・高等学校　2015年9月.
-4. Takagi, G. The effects of key concepts of psychotherapy on mental health.　The 31st International Congress of Psychology 2016. Japan. Pacifico Yokohama in Kanagawa. July 24-29, 2016.
+4. <u>Takagi, G.</u> The effects of key concepts of psychotherapy on mental health.　The 31st International Congress of Psychology 2016. Japan. Pacifico Yokohama in Kanagawa. July 24-29, 2016.
 5. <u>高木源</u>　不眠問題への解決志向短期療法―ホワイトボードを用いた解決に関する会話の導入―　日本家族心理学会第33回 日本交流分析学会第41回 合同大会　聖徳大学　2016年10月.
 6. <u>高木源</u>・若島孔文　心理療法の鍵概念と精神的健康のモデル化（Ⅱ）　第8回ブリーフセラピー協会学術会議　栃木県総合文化センター　2016年11月.
-7. Takagi, G. The effects of “well-formed goal” and “exception” questions developed by solution-focused brief therapy (SFBT): Aimed to develop SFBT worksheet. International Conference: Crossroads of Couple and Family Psychology. Chicago. June 22-24, 2017.
+7. <u>Takagi, G.</u> The effects of “well-formed goal” and “exception” questions developed by solution-focused brief therapy (SFBT): Aimed to develop SFBT worksheet. International Conference: Crossroads of Couple and Family Psychology. Chicago. June 22-24, 2017.
 8. <u>高木源</u>・千葉柊作・小林大介・若島孔文　場面状況における適切な対処方略の検討　第9回ブリーフセラピー協会学術会議　福岡県立ももち文化センター　2017年10月.
 9. <u>高木源</u>　解決志向の観察課題が問題状況の認識と対処方略に及ぼす影響　日本心理学会第82回大会　東北大学　2018年9月.
 10. <u>高木源</u>・若島孔文・佐藤宏平　家族構造と養育態度が解決構築に与える影響　日本家族心理学会第36回大会　岩手大学　2019年9月.
