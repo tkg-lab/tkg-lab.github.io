@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research Note"
-permalink: /research-notebook/
+permalink: /research-note/
 author_profile: true
 redirect_from:
   - /resume
