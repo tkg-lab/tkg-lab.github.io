@@ -12,7 +12,8 @@ redirect_from:
 
 ## 学術論文（査読付き）
 
-1. <u>Takagi, G.</u>, Wakashima, K., Sato, K., Ikuta, M., Hanada, R., and Smock, S. (2015). The Development of Solution Building Inventory Japanese version: Validation of the SBI-J. _International Journal of Brief Therapy & Family Science_, __5(1)__, 19-25.<details><summary>すごく長い文章とかプログラムとか</summary><div>
+1. <u>Takagi, G.</u>, Wakashima, K., Sato, K., Ikuta, M., Hanada, R., and Smock, S. (2015). The Development of Solution Building Inventory Japanese version: Validation of the SBI-J. _International Journal of Brief Therapy & Family Science_, __5(1)__, 19-25.
+<details><summary>すごく長い文章とかプログラムとか</summary><div>
 
 ```python
 print('Hello world!')
