@@ -1,7 +1,7 @@
 
 ---
 layout: archive
-title: "Congerence"
+title: "Conference"
 permalink: /conference/
 author_profile: true
 redirect_from:
