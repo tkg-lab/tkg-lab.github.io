@@ -16,6 +16,7 @@ redirect_from:
 　　　　　日本健康心理学会、日本ヒューマンケア心理学会  
 
 # New
+<p class="alert">**掲載予定**</p>
 > **掲載予定**　<u>2021年7月23日</u>  
 > Takagi, G., Hiraizumi, T., Sakamoto, K., & Hagidai, M. Impact of self and therapists’ evaluation of responses to Miracle Question and goal: Survey of Japanese undergraduate and graduate students. Journal of Solution Focused Practices  
 >  
