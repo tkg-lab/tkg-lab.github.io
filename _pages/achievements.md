@@ -11,10 +11,10 @@ redirect_from:
 
 
 ## 学術論文（査読付き）
-1. The Development of Solution Building Inventory Japanese version: Validation of the SBI-J. <u>Takagi, G.</u>, Wakashima, K., Sato, K., Ikuta, M., Hanada, R., and Smock, S. International Journal of Brief Therapy & Family Science. 5(1), 19-25. 2015.
-2. 不眠問題への解決志向短期療法―ホワイトボードを用いた解決に関する会話の導入―　高木源・若島孔文・小林大介　Interactional Mind Ⅳ　94-108.　2016.
-3. 離婚問題へのアプローチ―弁護士と心理士の連携による自死対策プロジェクト―　若島孔文・高坂加世子・高木源　Interactional Mind Ⅳ　109-122.　2016.
-4. Approach to a stomachache: The case of teenager was diagnosed with irritable bowel syndrome. Kobayashi, D., Takagi, G., and Wakashima, K. International Journal of Brief Therapy & Family Science. 6(2), 11-20. 2016.
+1. The Development of Solution Building Inventory Japanese version: Validation of the SBI-J. <u>Takagi, G.</u>, Wakashima, K., Sato, K., Ikuta, M., Hanada, R., and Smock, S. _International Journal of Brief Therapy & Family Science_, __5(1)__, 19-25. 2015.
+2. 不眠問題への解決志向短期療法―ホワイトボードを用いた解決に関する会話の導入―　高木源・若島孔文・小林大介　_Interactional Mind Ⅳ_,　94-108.　2016.
+3. 離婚問題へのアプローチ―弁護士と心理士の連携による自死対策プロジェクト―　若島孔文・高坂加世子・高木源　_Interactional Mind Ⅳ_,　109-122.　2016.
+4. Approach to a stomachache: The case of teenager was diagnosed with irritable bowel syndrome. Kobayashi, D., Takagi, G., and Wakashima, K. _International Journal of Brief Therapy & Family Science_, 6(2), 11-20. 2016.
 5. 離婚によるうつを抱える女性の復職支援について　若島孔文・高木源・小林大介　精神療法43(2)　238-245.　2017.
 6. Advantages of virtual agents over clinical psychologists during comprehensive mental health interviews using a mixed methods design. Yokotani, K., Takagi, G., Wakashima, K. Computers in human behavior, 85, 135-145. 2018.
 7. Comprehensive Stress Response Inventory for Children: Construction, Reliability, and Validity. Hiraizumi, T., Wakashima, K., Asai, T., Takagi, G., Kobayashi, D., Andou, I., Akama, Y., Shimizu, Y., & Kurita, R. International Journal of Brief Therapy and Family Science, 8(1), 23-33. 2018.
