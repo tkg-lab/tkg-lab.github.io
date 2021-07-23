@@ -12,7 +12,13 @@ redirect_from:
 
 ## 学術論文（査読付き）
 
-1. <u>Takagi, G.</u>, Wakashima, K., Sato, K., Ikuta, M., Hanada, R., and Smock, S. (2015). The Development of Solution Building Inventory Japanese version: Validation of the SBI-J. _International Journal of Brief Therapy & Family Science_, __5(1)__, 19-25.
+1. <u>Takagi, G.</u>, Wakashima, K., Sato, K., Ikuta, M., Hanada, R., and Smock, S. (2015). The Development of Solution Building Inventory Japanese version: Validation of the SBI-J. _International Journal of Brief Therapy & Family Science_, __5(1)__, 19-25.<details><summary>すごく長い文章とかプログラムとか</summary><div>
+
+```python
+print('Hello world!')
+```　
+</div></details>
+
 2. Kobayashi, D., <u>Takagi, G.</u>, & Wakashima, K. (2016). Approach to a stomachache: The case of teenager was diagnosed with irritable bowel syndrome. _International Journal of Brief Therapy & Family Science_, __6(1)__, 11-20.
 3. <u>高木源</u>・若島孔文・小林大介 (2016). 不眠問題への解決志向短期療法―ホワイトボードを用いた解決に関する会話の導入―. _Interactional Mind Ⅳ_, 94-108.
 4. 若島孔文・高坂加世子・<u>高木源</u> (2016). 離婚問題へのアプローチ―弁護士と心理士の連携による自死対策プロジェクト―. _Interactional Mind Ⅳ_, 109-122.
