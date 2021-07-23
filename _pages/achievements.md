@@ -28,8 +28,8 @@ redirect_from:
 14. Wakashima, K., Sakamoto, K., <u>Takagi, G.</u>, Kamoshida, S., Hiraizumi, T., Itakura, N., Ikuta, M., Sato, K., & Hanada, R. (2021). Examination of the effect of a marital symmetrical communication pattern and the amount of communication on problem-solving: Attempt to apply Integrated Information Theory to the family system. _International Journal of Brief Therapy and Family Science_, __11(1)__, 1-13.
 15. <u>Takagi, G.</u>, Wakashima, K., Sato, K., Ikuta, M., Hanada, R., & Hiraizumi, T.  (2021). The relationship between fear of COVID-19 and coping behaviors in Japanese university students. _International Journal of Brief Therapy and Family Science_, __11(1)__, 42-57.
 16. <u>高木源</u>・若島孔文 (2021). 解決志向の観察課題に基づくセルフケアツールの効果. _ヒューマン・ケア研究_, __21(2)__, 101-112.
-17. <u>高木源</u>・若島孔文・佐藤宏平・萩臺美紀 (印刷中). 解決構築と家族構造および養育態度との関連の検討. _家族心理学研究_, __35(1)__, 印刷中.
-18. <u>Takagi, G.</u>, Hiraizumi, T., Sakamoto, K., & Hagidai, M. (in press). Impact of self and therapists’ evaluation of responses to Miracle Question and goal: Survey of Japanese undergraduate and graduate students. _Journal of Solution Focused Practices_, in press.
+17. <u>高木源</u>・若島孔文・佐藤宏平・萩臺美紀 (印刷中). 解決構築と家族構造および養育態度との関連の検討. _家族心理学研究_, __35(1)__.
+18. <u>Takagi, G.</u>, Hiraizumi, T., Sakamoto, K., & Hagidai, M. (in press). Impact of self and therapists’ evaluation of responses to Miracle Question and goal: Survey of Japanese undergraduate and graduate students. _Journal of Solution Focused Practices_.
 
 
 ## 大学紀要等
@@ -51,9 +51,9 @@ redirect_from:
   
 
 ## その他の論文・報告書・コラム等
-1. 若島孔文, 上埜高志, 加藤道代, 安保英勇, 吉田沙蘭, 前田駿太, 砂川芽吹, 奥山滋樹, 亀倉大地, 小林大介, 高木 源, 坂本一真, 萩臺美紀, 二本松直人, 宇野あかり, 鴨志田冴子, 小岩広平, 櫻庭真弓 (2020). 2019年度市民相談・セミナー活動報告－アンケート集計から－. _東北大学大学院教育学研究科臨床心理相談室紀要_, __18__, 191-201.
+1. 若島孔文・上埜高志・加藤道代・安保英勇・吉田沙蘭・前田駿太・砂川芽吹・奥山滋樹・亀倉大地・小林大介・高木 源・坂本一真・萩臺美紀・二本松直人・宇野あかり・鴨志田冴子・小岩広平・櫻庭真弓 (2020). 2019年度市民相談・セミナー活動報告－アンケート集計から－. _東北大学大学院教育学研究科臨床心理相談室紀要_, __18__, 191-201.
 
 ## 書籍
-1. 論文
-2. 論文
+1. 高木源 (2019).　章訳：第6章　ケース・プランニングと臨床的アセスメント.　家族心理学（若島孔文・野口修司（編訳））, 遠見書房  ／ Thoburn, J. W., & Sexton, T. L. (2015). Family Psychology: Theory, Research, and Practice. ABC-CLIO.
+2. 高木源・平泉拓 (印刷中). 第14章　遠隔心理療法のトレーニング. 遠隔心理療法の理論と実践（平泉拓・武林由武・中村洸太（編著））, 金子書房.
 
