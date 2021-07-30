@@ -10,5 +10,5 @@ main:
   - title: "Conference"
     url: /conference/   
   
-  - title: "Research Note"
-    url: /research-note/   
+#  - title: "Research Note"
+#   url: /research-note/   
