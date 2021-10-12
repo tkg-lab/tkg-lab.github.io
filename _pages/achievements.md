@@ -28,7 +28,8 @@ redirect_from:
 <li>Wakashima, K., Sakamoto, K., <u>Takagi, G.</u>, Kamoshida, S., Hiraizumi, T., Itakura, N., Ikuta, M., Sato, K., &amp; Hanada, R. （2021）. Examination of the effect of a marital symmetrical communication pattern and the amount of communication on problem-solving: Attempt to apply Integrated Information Theory to the family system. <em>International Journal of Brief Therapy and Family Science</em>, <strong>11（1）</strong>, 1-13.</li>
 <li><u>Takagi, G.</u>, Wakashima, K., Sato, K., Ikuta, M., Hanada, R., &amp; Hiraizumi, T.  （2021）. The relationship between fear of COVID-19 and coping behaviors in Japanese university students. <em>International Journal of Brief Therapy and Family Science</em>, <strong>11（1）</strong>, 42-57.</li>
 <li><u>高木源</u>・若島孔文 （2021）. 解決志向の観察課題に基づくセルフケアツールの効果. <em>ヒューマン・ケア研究</em>, <strong>21（2）</strong>, 101-112.</li>
-<li><u>高木源</u>・若島孔文・佐藤宏平・萩臺美紀 （印刷中）. 解決構築と家族構造および養育態度との関連の検討. <em>家族心理学研究</em>, <strong>35（1）</strong>.</li>
+<li>鴨志田冴子・<u>高木源</u>・三道なぎさ・若島孔文 （2021）. うつ病ラベルが他者の言語・非言語コミュニケーションへ与える影響. <em>家族心理学研究</em>, <strong>35（1）</strong>, 1-13.</li>
+<li><u>高木源</u>・若島孔文・佐藤宏平・萩臺美紀 （2021）. 解決構築と家族構造および養育態度との関連の検討. <em>家族心理学研究</em>, <strong>35（1）</strong>, 41-53.</li>
 <li><u>Takagi, G.</u>, Hiraizumi, T., Sakamoto, K., &amp; Hagidai, M. （in press）. Impact of self and therapists’ evaluation of responses to Miracle Question and goal: Survey of Japanese undergraduate and graduate students. <em>Journal of Solution Focused Practices</em>.</li>
 </ol>
 </div></details>
