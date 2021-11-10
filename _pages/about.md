@@ -16,7 +16,7 @@ redirect_from:
 
 # New
 > **開発**　<u>2021年11月11日</u>  
-> 目標の具体性と現実性を機械的に判定する[SFBTツール（試作版）](https://share.streamlit.io/tkg-lab/sfbt-work1/main/app.py)を公開しました。  
+> 目標の具体性と現実性を機械的に判定する[SFBTツール（試作版）](https://share.streamlit.io/tkg-lab/sfbt-work1/main/app.py){:target="_blank"}を公開しました。  
 > 
 > **掲載**　<u>2021年9月30日</u>  
 > 高木源・若島孔文・佐藤宏平・萩臺美紀. 解決構築と家族構造および養育態度との関連の検討. 家族心理学研究, 35（1）,  41-53.  
