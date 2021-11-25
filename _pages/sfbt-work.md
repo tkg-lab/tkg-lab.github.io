@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "SFBT Work"
+title: ""
 permalink: /sfbt-work/
 author_profile: true
 redirect_from:
