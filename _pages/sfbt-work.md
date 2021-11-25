@@ -10,10 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-## 出身
-* 故郷
-  * 静岡県中部
-* 中学校
-  * 2004年4月～2008年3月　静岡大教育学部学附属島田中学校
-* 高等学校
-  * 2008年4月～2011年3月　静岡県立藤枝東高等学校
+# New
+> **開発**　<u>2021年11月24日</u>  
+> 目標の具体性と現実性を機械的に判定する<a href="https://streamlit-goalcls-sudz64bhwa-an.a.run.app" target="_blank" rel="noopener noreferrer">SFBTツール_v1.0</a>を公開しました。  
+> 
