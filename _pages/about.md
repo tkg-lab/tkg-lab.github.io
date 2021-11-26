@@ -15,7 +15,7 @@ redirect_from:
 所属学会：日本心理臨床学会、日本カウンセリング学会、日本家族心理学会、日本ブリーフセラピー協会、日本健康心理学会、日本ヒューマンケア心理学会  
 
 # New
-> **掲載予定**　<u>2021年11月25日</u>  
+> **掲載**　<u>2021年11月25日</u>  
 > Takagi, G., Hiraizumi, T., Sakamoto, K., & Hagidai, M. Impact of self and therapists’ evaluation of responses to Miracle Question and goal: Survey of Japanese undergraduate and graduate students. Journal of Solution Focused Practices, 5(2), 11-28.
 > https://digitalscholarship.unlv.edu/journalsfp/vol5/iss2/3/  
 >  
