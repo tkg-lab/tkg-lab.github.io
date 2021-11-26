@@ -15,6 +15,9 @@ redirect_from:
 所属学会：日本心理臨床学会、日本カウンセリング学会、日本家族心理学会、日本ブリーフセラピー協会、日本健康心理学会、日本ヒューマンケア心理学会  
 
 # New
+> **掲載予定**　<u>2021年11月25日</u>  
+> Takagi, G., Hiraizumi, T., Sakamoto, K., & Hagidai, M. Impact of self and therapists’ evaluation of responses to Miracle Question and goal: Survey of Japanese undergraduate and graduate students. Journal of Solution Focused Practices, 5(2), 11-28.https://digitalscholarship.unlv.edu/journalsfp/vol5/iss2/3/  
+>  
 > **開発**　<u>2021年11月24日</u>  
 > 目標の具体性と現実性を機械的に判定する<a href="https://streamlit-goalcls-sudz64bhwa-an.a.run.app" target="_blank" rel="noopener noreferrer">SFBTツール_v1.0</a>を公開しました。  
 > 
@@ -24,9 +27,6 @@ redirect_from:
 > **出版・一部執筆**　<u>2021年8月4日</u>  
 > 若島 孔文 (編著), 野口 修司 (編著)．テキスト家族心理学．金剛出版．  
 > 
-> **掲載予定**　<u>2021年7月23日</u>  
-> Takagi, G., Hiraizumi, T., Sakamoto, K., & Hagidai, M. Impact of self and therapists’ evaluation of responses to Miracle Question and goal: Survey of Japanese undergraduate and graduate students. Journal of Solution Focused Practices  
->  
 > **近刊**　<u>2021年7月23日</u>  
 > 高木源・平泉拓. 第14章　遠隔心理療法のトレーニング. 遠隔心理療法の理論と実践（平泉拓・武林由武・中村洸太（編著））, 金子書房.  
 
