@@ -16,7 +16,7 @@ redirect_from:
 
 # New
 > **掲載予定**　<u>2021年11月25日</u>  
-> Takagi, G., Hiraizumi, T., Sakamoto, K., & Hagidai, M. Impact of self and therapists’ evaluation of responses to Miracle Question and goal: Survey of Japanese undergraduate and graduate students. Journal of Solution Focused Practices, 5(2), 11-28.https://digitalscholarship.unlv.edu/journalsfp/vol5/iss2/3/  
+> Takagi, G., Hiraizumi, T., Sakamoto, K., & Hagidai, M. Impact of self and therapists’ evaluation of responses to Miracle Question and goal: Survey of Japanese undergraduate and graduate students. Journal of Solution Focused Practices, 5(2), 11-28. ⇒　https://digitalscholarship.unlv.edu/journalsfp/vol5/iss2/3/  
 >  
 > **開発**　<u>2021年11月24日</u>  
 > 目標の具体性と現実性を機械的に判定する<a href="https://streamlit-goalcls-sudz64bhwa-an.a.run.app" target="_blank" rel="noopener noreferrer">SFBTツール_v1.0</a>を公開しました。  
