@@ -15,6 +15,6 @@ redirect_from:
 所属学会：日本心理臨床学会、日本カウンセリング学会、日本家族心理学会、日本ブリーフセラピー協会、日本健康心理学会、日本ヒューマンケア心理学会  
 
 # Twitter
-<a class="twitter-timeline" data-width="600" data-height="500" href="https://twitter.com/tkg33gn?ref_src=twsrc%5Etfw">Tweets by tkg33gn</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="1000" data-height="300" href="https://twitter.com/tkg33gn?ref_src=twsrc%5Etfw">Tweets by tkg33gn</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ![Editing a markdown file for a talk](/files/top_1.png)
