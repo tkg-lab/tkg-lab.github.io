@@ -32,7 +32,7 @@ redirect_from:
 <li><u>高木源</u>・若島孔文・佐藤宏平・萩臺美紀 （2021）. 解決構築と家族構造および養育態度との関連の検討. <em>家族心理学研究</em>, <strong>35（1）</strong>, 41-53.</li>
 <li><u>Takagi, G.</u>, Hiraizumi, T., Sakamoto, K., &amp; Hagidai, M. （2021）. Impact of self and therapists’ evaluation of responses to Miracle Question and goal: Survey of Japanese undergraduate and graduate students. <em>Journal of Solution Focused Practices</em>, <strong>5(2)</strong>, 11-28.</li>
 <li>小岩広平・若島孔文・浅井 継悟・<u>高木源</u>・吉井初美 （2021）. 我が国における看護師の新型コロナウイルス感染症への感染恐怖の規定要因. <em>心理学研究</em>, <strong>92（5）</strong>, 442-451.</li>
-<li>Sakai, M., Nakanishi, M., Yu, Z., <u>Takagi, G.</u>, Toshi, K., Wakashima, K., &amp; Yoshii, H.（2022）. Depression and anxiety among nursing students during the COVID-19 pandemic in Tohoku region, Japan: A cross-sectional survey. <em>Japan journal of nursing science</em>, <strong>e12483</strong>.</li>
+<li>Sakai, M., Nakanishi, M., Yu, Z., <u>Takagi, G.</u>, Toshi, K., Wakashima, K., &amp; Yoshii, H.（2022）. Depression and anxiety among nursing students during the COVID-19 pandemic in Tohoku region, Japan: A cross-sectional survey. <em>Japan journal of nursing science</em>, e12483.</li>
 <li><u>Takagi, G</u>., Sakamoto, K., Nihonmatsu, N., &amp; Hagidai, M.（2022）. The impact of clarifying the long-term solution picture through solution-focused interventions on positive attitude towards life. <em>PLOS ONE</em>, <strong>17(5)</strong>, e0267107.</li>
 </ol>
 </div></details>
@@ -56,7 +56,7 @@ redirect_from:
 <li>平泉拓・<u>高木源</u> （2020）. 公衆衛生のための遠隔心理学. <em>公衆衛生情報みやぎ</em>, <strong>505</strong>, 1-7.</li>
 <li><u>高木源</u>・平泉拓・二本松直人・坂本一真・石飛綾那・桃生篤・芦原和香子 （2020）. 就労移行支援におけるeメンタルヘルスケアサービス『セルフコーチング』の運用結果と今後の課題. <em>地域ケアリング</em>, <strong>22（7）</strong>, 55-57.</li>
 <li>櫻庭真弓・<u>高木源</u>・若島孔文 （2021）. 中学生を対象とした解決志向短期療法に基づくワークの効果の検討. <em>東北大学大学院教育学研究科『研究年報』</em>, <strong>69（2）</strong>, 191-207.</li>
-<li><u>高木源</u> （2022）. 機械学習を用いた目標の具体性および実現可能性の分類―解決志向短期療法に基づく双方向型のセルフケア支援ツールの開発を目指して― . <em>東北負k水大学研究紀要</em>, <strong>46</strong>, 47-54.</li>
+<li><u>高木源</u> （2022）. 機械学習を用いた目標の具体性および実現可能性の分類―解決志向短期療法に基づく双方向型のセルフケア支援ツールの開発を目指して― . <em>東北福祉大学研究紀要</em>, <strong>46</strong>, 47-54.</li>
 </ol>
 </div></details>
 
