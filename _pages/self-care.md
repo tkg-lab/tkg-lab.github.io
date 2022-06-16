@@ -14,7 +14,7 @@ redirect_from:
 ### 　<u>2021年11月24日</u>  
 - <a href="https://streamlit-goalcls-sudz64bhwa-an.a.run.app" target="_blank" rel="noopener noreferrer">SFBTツール_v1.0</a>を公開しました。  
 ### 　<u>2022年6月16日</u>  
-- <a href="https://streamlit-goalcls-sudz64bhwa-an.a.run.app" target="_blank" rel="noopener noreferrer">SFBTツール_v2.0</a>を公開しました。  
+- <a href="https://sfbt-tool-v1-lur5uyrhqa-an.a.run.app" target="_blank" rel="noopener noreferrer">SFBTツール_v2.0</a>を公開しました。  
 
 ## **目標の具体性・現実性の判定ツール**  
 ### 　<u>202年6月16日</u>  
