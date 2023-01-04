@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Achievements"
-permalink: /achievements
+permalink: /achievements/
 author_profile: true
 redirect_from:
   - /resume
@@ -100,4 +100,3 @@ redirect_from:
 <li>令和4（2022）年度　東北福祉大学 学内公募型研究事業　望まない孤独の可視化と予測に関する研究—望まない孤独にある若者の早期発見を目指して　研究分担者　300万円</li>
 </ol>
 </div></details>
-
